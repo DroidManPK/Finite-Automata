@@ -1,4 +1,4 @@
-**This Program is for Simulating A MultiStack Machine also Known as MultiStack PDA, Currently Implemented auring Machine**
+**This Program is for Simulating A MultiStack Machine also Known as MultiStack PDA, Currently Implemented Turing Machine only**
 	- Using simple Matrix for saving rules and dotty for displaying the Machine graphically.
 
 ## Input File
